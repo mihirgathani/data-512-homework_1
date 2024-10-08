@@ -29,7 +29,7 @@ In order to make the graphs, you would have to run the following steps which inv
 
 Now that you have the entire repository cloned and environment setup, you can follow the steps:
 
-1. First, you need to run the ["Wikipedia_Traffic_Analysis_Part1_DataAcquisition.ipynb"](./Wikipedia_Traffic_Analysis_Part1_DataAcquisition.ipynb") file. In order to do this, you need to click on run all cells or restart kernal and run all cells button in the jupyter notebook. 
+1. First, you need to run the ["Wikipedia_Traffic_Analysis_Part1_DataAcquisition.ipynb"](./Wikipedia_Traffic_Analysis_Part1_DataAcquisition.ipynb) file. In order to do this, you need to click on run all cells or restart kernal and run all cells button in the jupyter notebook. 
 **Note-** Since the data acquisition process calls the API to get the required data, this file would take about 45 minutes to run and store the results into JSON files. To aid in speeding up the process, you can find the JSON files in the [JSON Data Files](./JSON%20Data%20Files/) folder. 
 
 2. The final step is to run the ["Wikipedia_Traffic_Analysis_Part2_DataAnalysis.ipynb"](./Wikipedia_Traffic_Analysis_Part2_DataAnalysis.ipynb)
