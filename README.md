@@ -14,7 +14,7 @@ The goal of this assignment is to construct, analyze, and publish a dataset of m
 
 **Data Acquisition Code**
 
-- Parts of the code in the ["Wikipedia_Traffic_Analysis_Part1_DataAcquisition.ipynb"](./Wikipedia_Traffic_Analysis_Part1_DataAcquisition.ipynb") file were taken as-is or with minimal changes from the [example code](https://drive.google.com/file/d/1fYTIX79t9jk-Jske8IwysV-rbRkD4_dc/view?usp=drive_link) that was developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.3 - August 16, 2024
+- Parts of the code in the ["Wikipedia_Traffic_Analysis_Part1_DataAcquisition.ipynb"](./Wikipedia_Traffic_Analysis_Part1_DataAcquisition.ipynb) file were taken as-is or with minimal changes from the [example code](https://drive.google.com/file/d/1fYTIX79t9jk-Jske8IwysV-rbRkD4_dc/view?usp=drive_link) that was developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.3 - August 16, 2024
 
 
 ## API Documentation
